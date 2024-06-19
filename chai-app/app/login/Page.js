@@ -9,7 +9,7 @@ const Login = () => {
       </h1>
       <div className="social-login-buttons">
         <div class="flex flex-col gap-2 min-h-screen  p-12   items-center">
-          <button className="flex items-center
+          <button className="flex items-center w-64
             bg-slate-50 text-black border border-gray-300 rounded-lg shadow-md max-w-xs px-6 py-2 text-sm font-medium  hover:bg-gray-200 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-500">
             <svg
               className="h-6 w-6 mr-2"
